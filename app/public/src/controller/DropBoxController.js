@@ -28,12 +28,12 @@ class DropBoxController {
     connectFirebase(){
 
         var config = {
-            apiKey: "AIzaSyBK_0_LIo7kLydbbKjhuxpi2zqMdTQTxUI",
-            authDomain: "dropbox-clone-f1145.firebaseapp.com",
-            databaseURL: "https://dropbox-clone-f1145.firebaseio.com",
-            projectId: "dropbox-clone-f1145",
-            storageBucket: "dropbox-clone-f1145.appspot.com",
-            messagingSenderId: "850417744090"
+            apiKey: "SuaChave",
+            authDomain: "dominio",
+            databaseURL: "endereco,
+            projectId: "id,
+            storageBucket: "endereco",
+            messagingSenderId: "suId"
         };
         firebase.initializeApp(config);
 
